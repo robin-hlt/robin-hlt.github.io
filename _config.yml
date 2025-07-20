@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/images/avatar.jpg"
-  bio              : "Lorem ipsum College"
+  name             : "Litao Hua"
+  avatar           : "images/avatar.jpg"
+  bio              : "M.S. student @ NUIST"
   location         : "Nanjing, China"
   employer         :
   pubmed           : 
