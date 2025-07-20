@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Litao Hua"
   avatar           : "images/avatar.jpg"
-  bio              : "M.S. student @ NUIST"
+  bio              : 
   location         : "Nanjing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=niNZb5IAAAAJ"
   email            : "202412621441@nuist.edu.cn"
-  researchgate     : "https://github.com/robin-hlt"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
