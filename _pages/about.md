@@ -44,6 +44,6 @@ My research interests include **image and 3D generation**, **multimodal large mo
 
 - A unified taxonomy that categorises attention-related modifications into parts according to the structural components they affect.
 
-  </div>
+
 
 
