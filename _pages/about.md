@@ -60,7 +60,7 @@ My research interests include **image and 3D generation**, **multimodal large mo
 
 Yuan Zhou, Shilong Jin, **Litao Hua**, Wanjun Lv, Haoran Duan, Jungong Han
 
-- To address this fundamental challenge, we propose ConsDreamer, a novel framework that mitigates view bias by refining both the conditional and unconditional terms in the score distillation process.
+- We propose ConsDreamer, a novel framework that mitigates view bias by refining both the conditional and unconditional terms in the score distillation process.
 
  </div>
 </div>
