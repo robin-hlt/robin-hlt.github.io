@@ -25,7 +25,9 @@ My research interests include **image and 3D generation**, **multimodal large mo
 
 
 # 🔥 News
-- *2025.04*: &nbsp;🎉🎉 "Attention in diffusion models: A survey" is released on arXiv (under review).
+- *2025.04*: &nbsp; 🎉🎉 Two papers are accepted to AAAI 2026
+- *2025.04*: &nbsp; "Attention in diffusion models: A survey" is released on arXiv (under review).
+
 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=niNZb5IAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
