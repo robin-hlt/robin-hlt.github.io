@@ -49,8 +49,8 @@ Hello! I’m a second-year M.S. student at **Nanjing University of Information S
     <div style="position:relative; margin-right:15px;">
       <img src="../assets/img/ReaSonFramework.png"
            style="
-             height:120px;
-             width:auto;
+             height:130px;
+             width:250px;
              border-radius:8px;
              object-fit:cover;
              box-shadow:0 2px 6px rgba(0,0,0,0.15);
@@ -94,8 +94,8 @@ Hello! I’m a second-year M.S. student at **Nanjing University of Information S
     <div style="position:relative; margin-right:15px;">
       <img src="../assets/img/ConsDreamer.png"
            style="
-             height:120px;
-             width:auto;
+             height:130px;
+             width:250px;
              border-radius:8px;
              object-fit:cover;
              box-shadow:0 2px 6px rgba(0,0,0,0.15);
@@ -120,7 +120,6 @@ Hello! I’m a second-year M.S. student at **Nanjing University of Information S
     <div style="flex:1;">
       <b style="font-size:17px;">ConsDreamer: Advancing Multi-View Consistency for Zero-Shot Text-to-3D Generation</b><br>
       Yuan Zhou, Shilong Jin, <b>Litao Hua</b>, Wanjun Lv, Haoran Duan, Jungong Han <br>
-      <br>
       <a href="https://arxiv.org/abs/2504.02316" target="_blank">[Paper]</a>
       <a href="https://github.com/GAInuist/ConsDreamer" target="_blank" style="margin-left:8px;">[Code]</a>
     </div>
@@ -137,8 +136,8 @@ Hello! I’m a second-year M.S. student at **Nanjing University of Information S
     <div style="position:relative; margin-right:15px;">
       <img src="../assets/img/AttentionSurvey.png"
            style="
-             height:120px;
-             width:auto;
+             height:130px;
+             width:250px;
              border-radius:8px;
              object-fit:cover;
              box-shadow:0 2px 6px rgba(0,0,0,0.15);
@@ -164,7 +163,6 @@ Hello! I’m a second-year M.S. student at **Nanjing University of Information S
       <b style="font-size:17px;">Attention in Diffusion Model: A Survey</b><br>
       <b>Litao Hua</b>, Fan Liu, Jie Su, Xingyu Miao, Zizhou Ouyang, Zeyu Wang, Runze Hu,
       Zhenyu Wen, Bing Zhai, Yang Long, Haoran Duan, Yuan Zhou <br>
-      <br>
       <a href="https://arxiv.org/abs/2504.03738" target="_blank">[Paper]</a>
     </div>
 
