@@ -31,7 +31,7 @@ Hello! I’m a second-year M.S. student at **Nanjing University of Information S
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">arXiv</div>
+      <div class="badge">AAAI</div>
       <img src='../assets/img/ReaSonFramework.png' alt="reason" width="100%">
     </div>
   </div>
