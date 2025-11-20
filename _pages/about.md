@@ -17,6 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<style>
+@media (max-width: 600px) {
+  .pub-row {
+    flex-direction: column !important;
+    align-items: center !important;
+  }
+  .pub-row img {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
+</style>
+
+
 # 👀 About Me
 Hello! I’m a second-year M.S. student at **Nanjing University of Information Science and Technology (NUIST)**, under the supervision of Prof. [Yuan Zhou](https://faculty.nuist.edu.cn/zhouyuan/zh_CN/zhym/43346/list/index.htm). I am closely working with [Haoran Duan](https://haoranduan.com/) in Tsinghua University. My research interests include **image and 3D generation**, **multimodal large models**, and **video understanding**.
 
@@ -28,93 +42,134 @@ Hello! I’m a second-year M.S. student at **Nanjing University of Information S
 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=niNZb5IAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> {#publications}
 
-<div style="display:flex; gap:12px; margin-bottom:25px; align-items:flex-start; flex-wrap:wrap;">
+<div style="max-width: 780px; margin: 0 auto;">
 
-  <!-- Image -->
-  <div style="position:relative; flex-shrink:0;">
-    <img src="../assets/img/ReaSonFramework.png"
-         style="height:120px; width:auto; border-radius:8px; object-fit:cover;">
+  <div class="pub-row" style="display:flex; align-items:flex-start; margin-bottom:25px;">
 
-    <div style="
-      position:absolute;
-      top:6px;
-      left:6px;
-      background:#0044CC;
-      color:white;
-      padding:3px 10px;
-      border-radius:6px;
-      font-size:12px;
-      font-weight:600;
-      box-shadow:0px 2px 4px rgba(0,0,0,0.2);
-    ">AAAI</div>
-  </div>
+    <div style="position:relative; margin-right:15px;">
+      <img src="../assets/img/ReaSonFramework.png"
+           style="
+             height:120px;
+             width:auto;
+             border-radius:8px;
+             object-fit:cover;
+             box-shadow:0 2px 6px rgba(0,0,0,0.15);
+           ">
 
-  <!-- Text -->
-  <div style="flex:1; min-width:250px;">
-    <b style="font-size:17px;">ReaSon: Reinforced Causal Search with Information Bottleneck for Video Understanding</b><br>
-    Yuan Zhou (Supervisor), <b>Litao Hua</b>, Shilong Jin, Wentao Huang, Haoran Duan <br>
-    <span style="color:#C62828; font-weight:600;">AAAI'26. CCF-A</span> <br>
+      <div style="
+        position:absolute;
+        top:6px;
+        left:6px;
+        background:#0044CC;
+        color:white;
+        padding:3px 10px;
+        border-radius:6px;
+        font-size:12px;
+        font-weight:600;
+        box-shadow:0px 2px 4px rgba(0,0,0,0.2);
+      ">
+        AAAI
+      </div>
+    </div>
 
-    <a href="https://arxiv.org/abs/2511.12530" target="_blank">[Paper]</a>
-    <a href="https://github.com/robin-hlt/AAAI26-ReaSon" target="_blank" style="margin-left:8px;">[Code]</a>
-  </div>
+    <div style="flex:1;">
+      <b style="font-size:17px;">ReaSon: Reinforced Causal Search with Information Bottleneck for Video Understanding</b><br>
+      Yuan Zhou (Supervisor), <b>Litao Hua</b>, Shilong Jin, Wentao Huang, Haoran Duan <br>
 
-</div>
+      <span style="color:#C62828; font-weight:600;">AAAI'26. CCF-A</span> <br>
 
+      <a href="https://arxiv.org/abs/2511.12530" target="_blank">[Paper]</a>
+      <a href="https://github.com/robin-hlt/AAAI26-ReaSon" target="_blank" style="margin-left:8px;">[Code]</a>
+    </div>
 
-
-<div style="display:flex; gap:12px; margin-bottom:25px; align-items:flex-start; flex-wrap:wrap;">
-
-  <div style="position:relative; flex-shrink:0;">
-    <img src="../assets/img/AttentionSurvey.png"
-         style="height:120px; width:auto; border-radius:8px; object-fit:cover;">
-    <div style="
-      position:absolute;
-      top:6px;
-      left:6px;
-      background:#444;
-      color:white;
-      padding:3px 10px;
-      border-radius:6px;
-      font-size:12px;
-      font-weight:600;
-      box-shadow:0px 2px 4px rgba(0,0,0,0.2);
-    ">arXiv</div>
-  </div>
-
-  <div style="flex:1; min-width:250px;">
-    <b style="font-size:17px;">Attention in Diffusion Model: A Survey</b><br>
-    <b>Litao Hua</b>, Fan Liu, Jie Su, Xingyu Miao, Zizhou Ouyang, Zeyu Wang, Runze Hu, 
-    Zhenyu Wen, Bing Zhai, Yang Long, Haoran Duan, Yuan Zhou
   </div>
 
 </div>
 
 
+<div style="max-width: 780px; margin: 0 auto;">
 
-<div style="display:flex; gap:12px; margin-bottom:25px; align-items:flex-start; flex-wrap:wrap;">
+  <div class="pub-row" style="display:flex; align-items:flex-start; margin-bottom:25px;">
 
-  <div style="position:relative; flex-shrink:0;">
-    <img src="../assets/img/ConsDreamer.png"
-         style="height:120px; width:auto; border-radius:8px; object-fit:cover;">
-    <div style="
-      position:absolute;
-      top:6px;
-      left:6px;
-      background:#444;
-      color:white;
-      padding:3px 10px;
-      border-radius:6px;
-      font-size:12px;
-      font-weight:600;
-      box-shadow:0px 2px 4px rgba(0,0,0,0.2);
-    ">arXiv</div>
-  </div>
+    <div style="position:relative; margin-right:15px;">
+      <img src="../assets/img/ConsDreamer.png"
+           style="
+             height:120px;
+             width:auto;
+             border-radius:8px;
+             object-fit:cover;
+             box-shadow:0 2px 6px rgba(0,0,0,0.15);
+           ">
 
-  <div style="flex:1; min-width:250px;">
-    <b style="font-size:17px;">ConsDreamer: Advancing Multi-View Consistency for Zero-Shot Text-to-3D Generation</b><br>
-    Yuan Zhou, Shilong Jin, <b>Litao Hua</b>, Wanjun Lv, Haoran Duan, Jungong Han
+      <div style="
+        position:absolute;
+        top:6px;
+        left:6px;
+        background:#444;
+        color:white;
+        padding:3px 10px;
+        border-radius:6px;
+        font-size:12px;
+        font-weight:600;
+        box-shadow:0px 2px 4px rgba(0,0,0,0.2);
+      ">
+        arXiv
+      </div>
+    </div>
+
+    <div style="flex:1;">
+      <b style="font-size:17px;">ConsDreamer: Advancing Multi-View Consistency for Zero-Shot Text-to-3D Generation</b><br>
+      Yuan Zhou, Shilong Jin, <b>Litao Hua</b>, Wanjun Lv, Haoran Duan, Jungong Han <br>
+      <br>
+      <a href="https://arxiv.org/abs/2504.02316" target="_blank">[Paper]</a>
+      <a href="https://github.com/GAInuist/ConsDreamer" target="_blank" style="margin-left:8px;">[Code]</a>
+    </div>
+
   </div>
 
 </div>
+
+
+<div style="max-width: 780px; margin: 0 auto;">
+
+  <div class="pub-row" style="display:flex; align-items:flex-start; margin-bottom:25px;">
+
+    <div style="position:relative; margin-right:15px;">
+      <img src="../assets/img/AttentionSurvey.png"
+           style="
+             height:120px;
+             width:auto;
+             border-radius:8px;
+             object-fit:cover;
+             box-shadow:0 2px 6px rgba(0,0,0,0.15);
+           ">
+
+      <div style="
+        position:absolute;
+        top:6px;
+        left:6px;
+        background:#444;
+        color:white;
+        padding:3px 10px;
+        border-radius:6px;
+        font-size:12px;
+        font-weight:600;
+        box-shadow:0px 2px 4px rgba(0,0,0,0.2);
+      ">
+        arXiv
+      </div>
+    </div>
+
+    <div style="flex:1;">
+      <b style="font-size:17px;">Attention in Diffusion Model: A Survey</b><br>
+      <b>Litao Hua</b>, Fan Liu, Jie Su, Xingyu Miao, Zizhou Ouyang, Zeyu Wang, Runze Hu,
+      Zhenyu Wen, Bing Zhai, Yang Long, Haoran Duan, Yuan Zhou <br>
+      <br>
+      <a href="https://arxiv.org/abs/2504.03738" target="_blank">[Paper]</a>
+    </div>
+
+  </div>
+
+</div>
+
 
