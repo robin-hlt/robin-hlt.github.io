@@ -32,6 +32,24 @@ Hello! I’m a second-year M.S. student at **Nanjing University of Information S
   <div class='paper-box-image'>
     <div>
       <div class="badge">arXiv</div>
+      <img src='../assets/img/ReaSonFramework.png' alt="reason" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**ReaSon: Reinforced Causal Search with Information Bottleneck for Video Understanding**](https://arxiv.org/abs/2511.12530)
+
+Yuan Zhou (Supervisor), **Litao Hua**, Shilong Jin, Wentao Huang, Haoran Duan
+
+- We propose Reinforced Causal Search with Information Bottleneck (ReaSon), a framework that formulates keyframe selection as an optimization problem with the help of a novel Causal Information Bottleneck (CIB).
+
+ </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">arXiv</div>
       <img src='../assets/img/AttentionSurvey.png' alt="survey" width="100%">
     </div>
   </div>
