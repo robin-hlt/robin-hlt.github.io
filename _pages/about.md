@@ -26,18 +26,26 @@ Hello! I’m a second-year M.S. student at **Nanjing University of Information S
 - *2025.04*: &nbsp; "Attention in diffusion models: A survey" is released on arXiv (under review).
 
 
-# 📝 Publications <a href='https://scholar.google.com/citations?user=niNZb5IAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+# 📝 Publications <a href='https://scholar.google.com/citations?user=niNZb5IAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> {#-publications}
 
 <div style="max-width: 780px; margin: 0 auto;">
 
-  <div style="display:flex; align-items:flex-start; margin-bottom:25px;">
+  <div style="display:flex; align-items:flex-start; margin-bottom:25px; flex-wrap:wrap;">
 
-    <!-- Left: image + new badge -->
-    <div style="position:relative; margin-right:15px;">
-      <img src="../assets/img/ReaSonFramework.png" width="165px"
-           style="border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15);">
+    <div style="position:relative; margin-right:15px;
+                width:30vw; max-width:165px;
+                aspect-ratio:1;
+                ">
+      
+      <img src="../assets/img/ReaSonFramework.png"
+           style="
+             width:100%;
+             height:100%;
+             object-fit:cover;
+             border-radius:8px;
+             box-shadow:0 2px 6px rgba(0,0,0,0.15);
+           ">
 
-      <!-- Updated AAAI badge -->
       <div style="
         position:absolute;
         top:4px;
@@ -52,10 +60,10 @@ Hello! I’m a second-year M.S. student at **Nanjing University of Information S
       ">
         AAAI
       </div>
+
     </div>
 
-    <!-- Right text -->
-    <div style="flex:1;">
+    <div style="flex:1; min-width:200px;">
       <b style="font-size:17px;">ReaSon: Reinforced Causal Search with Information Bottleneck for Video Understanding</b><br>
       Yuan Zhou (Supervisor), <b>Litao Hua</b>, Shilong Jin, Wentao Huang, Haoran Duan <br>
 
@@ -68,6 +76,7 @@ Hello! I’m a second-year M.S. student at **Nanjing University of Information S
   </div>
 
 </div>
+
 
 
 <div class='paper-box'>
