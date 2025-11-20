@@ -28,82 +28,50 @@ Hello! I’m a second-year M.S. student at **Nanjing University of Information S
 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=niNZb5IAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> {#publications}
 
-<div style="max-width: 780px; margin: 0 auto;">
+<div class="pub-card">
 
-  <div style="display:flex; align-items:flex-start; margin-bottom:25px;">
+  <div class="pub-img-wrapper">
+    <img src="../assets/img/ReaSonFramework.png">
+    <div class="badge badge-aaai">AAAI</div>
+  </div>
 
-    <div style="position:relative; margin-right:15px;">
-      <img src="../assets/img/ReaSonFramework.png"
-           style="
-             height:120px;
-             width:auto;
-             border-radius:8px;
-             object-fit:cover;
-             box-shadow:0 2px 6px rgba(0,0,0,0.15);
-           ">
+  <div class="pub-text">
+    <b style="font-size:17px;">ReaSon: Reinforced Causal Search with Information Bottleneck for Video Understanding</b><br>
+    Yuan Zhou (Supervisor), <b>Litao Hua</b>, Shilong Jin, Wentao Huang, Haoran Duan <br>
+    <span style="color:#C62828; font-weight:600;">AAAI'26. CCF-A</span> <br>
 
-      <div style="
-        position:absolute;
-        top:6px;
-        left:6px;
-        background:#0044CC;
-        color:white;
-        padding:3px 10px;
-        border-radius:6px;
-        font-size:12px;
-        font-weight:600;
-        box-shadow:0px 2px 4px rgba(0,0,0,0.2);
-      ">
-        AAAI
-      </div>
-    </div>
-
-    <div style="flex:1;">
-      <b style="font-size:17px;">ReaSon: Reinforced Causal Search with Information Bottleneck for Video Understanding</b><br>
-      Yuan Zhou (Supervisor), <b>Litao Hua</b>, Shilong Jin, Wentao Huang, Haoran Duan <br>
-
-      <span style="color:#C62828; font-weight:600;">AAAI'26. CCF-A</span> <br>
-
-      <a href="https://arxiv.org/abs/2511.12530" target="_blank">[Paper]</a>
-      <a href="https://github.com/robin-hlt/AAAI26-ReaSon" target="_blank" style="margin-left:8px;">[Code]</a>
-    </div>
-
+    <a href="https://arxiv.org/abs/2511.12530" target="_blank">[Paper]</a>
+    <a href="https://github.com/robin-hlt/AAAI26-ReaSon" target="_blank" style="margin-left:8px;">[Code]</a>
   </div>
 
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">arXiv</div>
-      <img src='../assets/img/AttentionSurvey.png' alt="survey" width="100%">
-    </div>
+
+<div class="pub-card">
+
+  <div class="pub-img-wrapper">
+    <img src="../assets/img/AttentionSurvey.png">
+    <div class="badge badge-arxiv">arXiv</div>
   </div>
-  <div class='paper-box-text' markdown="1">
 
-[**Attention in Diffusion Model: A Survey**](https://arxiv.org/abs/2504.03738)
+  <div class="pub-text">
+    <b style="font-size:17px;">Attention in Diffusion Model: A Survey</b><br>
+    <b>Litao Hua</b>, Fan Liu, Jie Su, Xingyu Miao, Zizhou Ouyang, Zeyu Wang, Runze Hu, Zhenyu Wen, Bing Zhai, Yang Long, Haoran Duan, Yuan Zhou <br>
+  </div>
 
-**Litao Hua**, Fan Liu, Jie Su, Xingyu Miao, Zizhou Ouyang, Zeyu Wang, Runze Hu, Zhenyu Wen, Bing Zhai, Yang Long, Haoran Duan, Yuan Zhou
-
-- A unified taxonomy that categorises attention-related modifications into parts according to the structural components they affect.
-
- </div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">arXiv</div>
-      <img src='../assets/img/ConsDreamer.png' alt="consdreamer" width="100%">
-    </div>
+
+<div class="pub-card">
+
+  <div class="pub-img-wrapper">
+    <img src="../assets/img/ConsDreamer.png">
+    <div class="badge badge-arxiv">arXiv</div>
   </div>
-  <div class='paper-box-text' markdown="1">
 
-[**ConsDreamer: Advancing Multi-View Consistency for Zero-Shot Text-to-3D Generation**](https://arxiv.org/abs/2504.02316)
+  <div class="pub-text">
+    <b style="font-size:17px;">ConsDreamer: Advancing Multi-View Consistency for Zero-Shot Text-to-3D Generation</b><br>
+    Yuan Zhou, Shilong Jin, <b>Litao Hua</b>, Wanjun Lv, Haoran Duan, Jungong Han <br>
+  </div>
 
-Yuan Zhou, Shilong Jin, **Litao Hua**, Wanjun Lv, Haoran Duan, Jungong Han
-
-- We propose ConsDreamer, a novel framework that mitigates view bias by refining both the conditional and unconditional terms in the score distillation process.
-
- </div>
 </div>
