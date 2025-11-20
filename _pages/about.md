@@ -26,8 +26,7 @@ Hello! I’m a second-year M.S. student at **Nanjing University of Information S
 - *2025.04*: &nbsp; "Attention in diffusion models: A survey" is released on arXiv (under review).
 
 
-# 📝 Publications 
-# <a href='https://scholar.google.com/citations?user=niNZb5IAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+# 📝 Publications <a href='https://scholar.google.com/citations?user=niNZb5IAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 <div style="max-width: 780px; margin: 0 auto;">
 
@@ -35,24 +34,24 @@ Hello! I’m a second-year M.S. student at **Nanjing University of Information S
 
     <!-- Left: image + new badge -->
     <div style="position:relative; margin-right:15px;">
-      <img src="../assets/img/ReaSonFramework.png" width="165px" style="border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15);">
+      <img src="../assets/img/ReaSonFramework.png" width="165px"
+           style="border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15);">
 
-      <!-- New AAAI badge (beautiful) -->
+      <!-- Updated AAAI badge -->
       <div style="
         position:absolute;
-        top:8px;
-        left:8px;
+        top:4px;
+        left:4px;
         background:#0044CC;
         color:white;
-        padding:4px 12px;
-        border-radius:6px;
-        font-size:13px;
+        padding:3px 9px;
+        border-radius:5px;
+        font-size:11px;
         font-weight:600;
-        box-shadow:0px 2px 4px rgba(0,0,0,0.2);
+        box-shadow:0px 1px 3px rgba(0,0,0,0.2);
       ">
         AAAI
       </div>
-
     </div>
 
     <!-- Right text -->
@@ -63,12 +62,13 @@ Hello! I’m a second-year M.S. student at **Nanjing University of Information S
       <span style="color:#C62828; font-weight:600;">AAAI'26. CCF-A</span> <br>
 
       <a href="https://arxiv.org/abs/2511.12530" target="_blank">[Paper]</a>
-      <a href="https://github.com/RobinHua/ReaSon" target="_blank" style="margin-left:8px;">[Code]</a>
+      <a href="https://github.com/robin-hlt/AAAI26-ReaSon" target="_blank" style="margin-left:8px;">[Code]</a>
     </div>
 
   </div>
 
 </div>
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
