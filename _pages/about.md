@@ -28,22 +28,26 @@ Hello! I’m a second-year M.S. student at **Nanjing University of Information S
 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=niNZb5IAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">AAAI</div>
-      <img src='../assets/img/ReaSonFramework.png' alt="reason" width="100%">
+<div style="display:flex; align-items:flex-start; margin-bottom:25px;">
+  
+  <!-- Left -->
+  <div style="position:relative; margin-right:15px;">
+    <img src="../assets/img/ReaSonFramework.png" width="165px" style="border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15);">
+    <div style="position:absolute; top:8px; left:8px; background:#1E63E9; color:white; padding:3px 8px; border-radius:5px; font-size:12px; font-weight:bold;">
+      AAAI
     </div>
   </div>
-  <div class='paper-box-text' markdown="1">
 
-[**ReaSon: Reinforced Causal Search with Information Bottleneck for Video Understanding**](https://arxiv.org/abs/2511.12530)
+  <!-- Right -->
+  <div style="flex:1;">
+    <b style="font-size:17px;">ReaSon: Reinforced Causal Search with Information Bottleneck for Video Understanding</b><br>
+    Yuan Zhou (Supervisor), <b>Litao Hua</b>, Shilong Jin, Wentao Huang, Haoran Duan <br>
+    <span style="color:#C62828; font-weight:600;">AAAI'26. CCF-A</span> <br>
 
-Yuan Zhou (Supervisor), **Litao Hua**, Shilong Jin, Wentao Huang, Haoran Duan
+    <a href="https://arxiv.org/abs/2511.12530" target="_blank">[Paper]</a>
+    <a href="https://github.com/robin-hlt/AAAI26-ReaSon" target="_blank" style="margin-left:8px;">[Code]</a>
+  </div>
 
-- We propose Reinforced Causal Search with Information Bottleneck (ReaSon), a framework that formulates keyframe selection as an optimization problem with the help of a novel Causal Information Bottleneck (CIB).
-
- </div>
 </div>
 
 <div class='paper-box'>
