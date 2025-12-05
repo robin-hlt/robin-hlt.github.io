@@ -36,7 +36,7 @@ Hello! I’m a second-year M.S. student at **Nanjing University of Information S
 
 
 # 🔥 News
-- *2025.04*: &nbsp; 🎉🎉 Two papers are accepted to AAAI 2026
+- *2025.11*: &nbsp; 🎉🎉 Two papers are accepted to AAAI 2026
 - *2025.04*: &nbsp; "Attention in diffusion models: A survey" is released on arXiv (under review).
 
 
