@@ -92,6 +92,54 @@ Hello! I’m a second-year M.S. student at **Nanjing University of Information S
   <div class="pub-row" style="display:flex; align-items:flex-start; margin-bottom:25px;">
 
     <div style="position:relative; margin-right:15px;">
+      <img src="../assets/img/TDATTN.png"
+           style="
+             height:130px;
+             width:250px;
+             border-radius:8px;
+             object-fit:cover;
+             box-shadow:0 2px 6px rgba(0,0,0,0.15);
+           ">
+
+      <div style="
+        position:absolute;
+        top:6px;
+        left:6px;
+        background:#0044CC;
+        color:white;
+        padding:3px 10px;
+        border-radius:6px;
+        font-size:12px;
+        font-weight:600;
+        box-shadow:0px 2px 4px rgba(0,0,0,0.2);
+      ">
+        AAAI
+      </div>
+    </div>
+
+    <div style="flex:1;">
+      <b style="font-size:17px;">
+        Debiasing Diffusion Priors via 3D Attention for Consistent Gaussian Splatting
+      </b><br>
+
+      Shilong Jin, Haoran Duan, <b>Litao Hua</b>, Wentao Huang, Yuan Zhou <br>
+
+      <span style="color:#C62828; font-weight:600;">AAAI'26. CCF-A</span> <br>
+
+      <a href="https://arxiv.org/abs/2512.07345" target="_blank">[Paper]</a>
+      <a href="https://github.com/kimslong/AAAI26-TDAttn" target="_blank" style="margin-left:8px;">[Code]</a>
+    </div>
+
+  </div>
+
+</div>
+
+
+<div style="max-width: 780px; margin: 0 auto;">
+
+  <div class="pub-row" style="display:flex; align-items:flex-start; margin-bottom:25px;">
+
+    <div style="position:relative; margin-right:15px;">
       <img src="../assets/img/ConsDreamer.png"
            style="
              height:130px;
