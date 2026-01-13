@@ -218,7 +218,8 @@ Hello! I’m a second-year M.S. student at **Nanjing University of Information S
 
 </div>
 
-# Internships
+
+# 💼 Internships
 
 <div style="max-width: 780px; margin: 0 auto;">
 
