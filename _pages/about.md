@@ -240,7 +240,7 @@ Hello! I’m a second-year M.S. student at **Nanjing University of Information S
     </div>
 
     <div style="flex:1;">
-      <b style="font-size:17px;">Shanghai AI Laboratory</b><br>
+      <b style="font-size:17px;">Shanghai AI Lab</b><br>
       System Platform Center <br>
       <span style="color:#444; font-weight:500;">
         Engineering Intern · Jan. 2026 – Present
