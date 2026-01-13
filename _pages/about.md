@@ -218,4 +218,66 @@ Hello! I’m a second-year M.S. student at **Nanjing University of Information S
 
 </div>
 
+# Internships
+
+<div style="max-width: 780px; margin: 0 auto;">
+
+  <!-- Shanghai AI Lab -->
+  <div class="pub-row" style="display:flex; align-items:flex-start; margin-bottom:25px;">
+
+    <div style="position:relative; margin-right:15px;">
+      <img src="../assets/img/ailab-logo.png"
+           style="
+             height:90px;
+             width:250px;
+             border-radius:8px;
+             object-fit:contain;
+             background:#fff;
+             padding:8px;
+             box-shadow:0 2px 6px rgba(0,0,0,0.12);
+           ">
+    </div>
+
+    <div style="flex:1;">
+      <b style="font-size:17px;">Shanghai AI Laboratory</b><br>
+      System Platform Center <br>
+      <span style="color:#444; font-weight:500;">
+        Engineering Intern · Jan. 2026 – Present
+      </span><br>
+      <span style="color:#555;">
+        Embodied Intelligence · Reinforcement Learning Computing Framework
+      </span>
+    </div>
+
+  </div>
+
+  <!-- Hikvision -->
+  <div class="pub-row" style="display:flex; align-items:flex-start; margin-bottom:25px;">
+
+    <div style="position:relative; margin-right:15px;">
+      <img src="../assets/img/Hikvision-logo.png"
+           style="
+             height:90px;
+             width:250px;
+             border-radius:8px;
+             object-fit:contain;
+             background:#fff;
+             padding:8px;
+             box-shadow:0 2px 6px rgba(0,0,0,0.12);
+           ">
+    </div>
+
+    <div style="flex:1;">
+      <b style="font-size:17px;">Hikvision</b><br>
+      <span style="color:#444; font-weight:500;">
+        Technical Intern · Feb. 2023 – May 2023
+      </span><br>
+      <span style="color:#555;">
+        Security System Deployment and Maintenance for Government and Universities
+      </span>
+    </div>
+
+  </div>
+
+</div>
 
