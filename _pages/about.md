@@ -36,7 +36,8 @@ Hello! I’m a second-year M.S. student at **Nanjing University of Information S
 
 
 # 🔥 News
-- *2025.11*: &nbsp; 🎉🎉 Two papers are accepted to AAAI 2026
+- *2026.04*: &nbsp; 🎉 **ConsDreamer** is accepted by IEEE Trans. on Image Processing (TIP).
+- *2025.11*: &nbsp; 🎉🎉 Two papers are accepted to AAAI 2026.
 - *2025.04*: &nbsp; "Attention in diffusion models: A survey" is released on arXiv (under review).
 
 
@@ -161,13 +162,14 @@ Hello! I’m a second-year M.S. student at **Nanjing University of Information S
         font-weight:600;
         box-shadow:0px 2px 4px rgba(0,0,0,0.2);
       ">
-        arXiv
+        TIP
       </div>
     </div>
 
     <div style="flex:1;">
       <b style="font-size:17px;">ConsDreamer: Advancing Multi-View Consistency for Zero-Shot Text-to-3D Generation</b><br>
       Yuan Zhou, Shilong Jin, <b>Litao Hua</b>, Wanjun Lv, Haoran Duan, Jungong Han <br>
+      <span style="color:#C62828; font-weight:600;">IEEE Trans. on Image Processing. CCF-A</span> <br>
       <a href="https://arxiv.org/abs/2504.02316" target="_blank">[Paper]</a>
       <a href="https://github.com/GAInuist/ConsDreamer" target="_blank" style="margin-left:8px;">[Code]</a>
     </div>
