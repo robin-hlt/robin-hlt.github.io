@@ -154,7 +154,7 @@ Hello! I’m a second-year M.S. student at **Nanjing University of Information S
         position:absolute;
         top:6px;
         left:6px;
-        background:#444;
+        background:#0044CC;
         color:white;
         padding:3px 10px;
         border-radius:6px;
