@@ -36,6 +36,8 @@ Hello! I’m a second-year M.S. student at **Nanjing University of Information S
 
 
 # 🔥 News
+- *2026.05*: &nbsp; I joined the Douyin Recommendation Algorithm Team at **ByteDance** as an Algorithm Intern.
+- *2026.05*: &nbsp; 🎉 **ReaSon** was selected as a poster at VALSE 2026, and I was selected as a Featured Corner curator.
 - *2026.04*: &nbsp; 🎉 **ConsDreamer** is accepted by IEEE Trans. on Image Processing (TIP).
 - *2025.11*: &nbsp; 🎉🎉 Two papers are accepted to AAAI 2026.
 - *2025.04*: &nbsp; "Attention in diffusion models: A survey" is released on arXiv (under review).
@@ -225,6 +227,35 @@ Hello! I’m a second-year M.S. student at **Nanjing University of Information S
 
 <div style="max-width: 780px; margin: 0 auto;">
 
+  <!-- ByteDance -->
+  <div class="pub-row" style="display:flex; align-items:flex-start; margin-bottom:25px;">
+
+    <div style="position:relative; margin-right:15px;">
+      <img src="../assets/img/ByteDance_logo_English.svg"
+           style="
+             height:90px;
+             width:250px;
+             border-radius:8px;
+             object-fit:contain;
+             background:#fff;
+             padding:8px;
+             box-shadow:0 2px 6px rgba(0,0,0,0.12);
+           ">
+    </div>
+
+    <div style="flex:1;">
+      <b style="font-size:17px;">ByteDance</b><br>
+      Douyin Recommendation Algorithm Team <br>
+      <span style="color:#444; font-weight:500;">
+        Algorithm Intern · May 2026 – Present
+      </span><br>
+      <span style="color:#555;">
+        Recommendation Algorithms
+      </span>
+    </div>
+
+  </div>
+
   <!-- Shanghai AI Lab -->
   <div class="pub-row" style="display:flex; align-items:flex-start; margin-bottom:25px;">
 
@@ -245,7 +276,7 @@ Hello! I’m a second-year M.S. student at **Nanjing University of Information S
       <b style="font-size:17px;">Shanghai AI Lab</b><br>
       System Platform Center <br>
       <span style="color:#444; font-weight:500;">
-        Engineering Intern · Jan. 2026 – Present
+        Engineering Intern · Jan. 2026 – May 2026
       </span><br>
       <span style="color:#555;">
         Embodied Intelligence · Reinforcement Learning Computing Framework
@@ -283,4 +314,3 @@ Hello! I’m a second-year M.S. student at **Nanjing University of Information S
   </div>
 
 </div>
-
